@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "Decorator make modules in ECMAScript 2015+ stubbable",
   "main": "lib/index.js",
+  "typing": "index.d.ts",
   "scripts": {
     "build": "babel src --out-dir lib",
     "test": "babel-node test/index.js | faucet",
