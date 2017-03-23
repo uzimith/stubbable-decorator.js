@@ -13,7 +13,7 @@ A decorator to make possible to stub modules in ECMAScript 2015+.
 ## Installation
 
 ```
-npm install -S @caiogondim/stubbable-decorator
+npm install -S stubbable-decorator
 ```
 
 ## Usage
